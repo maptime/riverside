@@ -1,12 +1,13 @@
-baseurl: /starter
+baseurl: /riverside
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: riverside
 github_org: maptime
+future: true
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeIE
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
 gems:
